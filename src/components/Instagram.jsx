@@ -2,19 +2,19 @@ import { INSTAGRAM_HANDLE, INSTAGRAM_URL } from '../config'
 
 const tiles = [
   {
-    img: '../public/gallery/1.jpg',
+    img: '/gallery/1.jpg',
     link: INSTAGRAM_URL,
   },
   {
-    img: '../public/gallery/2.jpg',
+    img: '/gallery/2.jpg',
     link: INSTAGRAM_URL,
   },
   {
-    img: '../public/gallery/3.jpg',
+    img: '/gallery/3.jpg',
     link: INSTAGRAM_URL,
   },
   {
-    img: '../public/gallery/4.jpg',
+    img: '/gallery/4.jpg',
     link: INSTAGRAM_URL,
   },
 ]
